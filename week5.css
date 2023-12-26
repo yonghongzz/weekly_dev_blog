@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(247, 164, 171);
+}
+
+#navbar{
+    background-color: lightblue;
+}
+
+#week5{
+    margin-top: 200px;
+    text-align: center;
+}
+
+#week5 h2{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+#learn{
+    width: 300px;
+    margin: 20px auto;
+}

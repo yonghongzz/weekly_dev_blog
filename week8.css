@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 208, 177);
+}
+
+#navbar{
+    background-color: lightblue;
+}
+
+#week8{
+    margin-top: 200px;
+    text-align: center;
+}
+
+#week8 h2{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+#learn{
+    width: 350px;
+    margin: 20px auto;
+}

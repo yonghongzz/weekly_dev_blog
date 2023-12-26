@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(232, 164, 253);
+}
+
+#navbar{
+    background-color: lightblue;
+}
+
+#week9{
+    margin-top: 200px;
+    text-align: center;
+}
+
+#week9 h2{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+#learn{
+    width: 350px;
+    margin: 20px auto;
+}
